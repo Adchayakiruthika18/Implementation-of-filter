@@ -16,7 +16,6 @@ Apply the required filters for the image separately.
 Plot the original and filtered image by using matplotlib.pyplot.
 ### Step5
 End the program.
-
 ## Program:
 ### Developed By   :Yamuna M
 ### Register Number:212223230248
